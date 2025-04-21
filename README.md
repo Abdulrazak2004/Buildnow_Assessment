@@ -2,6 +2,8 @@
 
 This repository contains a solution for the Buildnow AI Engineer Internship assessment, focusing on categorizing multilingual purchase order items and analyzing spending patterns.
 
+**The dasboard is hosted currently on the web, you can check it from this link** : https://buildnow-assessment.streamlit.app
+
 ## Prerequisites
 
 1.  **Python:** Ensure you have Python 3.8 or higher installed.
