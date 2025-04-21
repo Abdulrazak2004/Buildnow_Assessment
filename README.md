@@ -2,7 +2,8 @@
 
 This repository contains a solution for the Buildnow AI Engineer Internship assessment, focusing on categorizing multilingual purchase order items and analyzing spending patterns.
 
-**The dasboard is hosted currently on the web, you can check it from this link** : https://buildnow-assessment.streamlit.app
+**The dasboard is hosted currently on the web, you can check it from this link** : 
+https://buildnow-assessment.streamlit.app
 
 ## Prerequisites
 
@@ -20,8 +21,8 @@ This repository contains a solution for the Buildnow AI Engineer Internship asse
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <your-repo-url>
-    cd <your-repo-name>
+    git clone https://github.com/Abdulrazak2004/Buildnow_Assessment
+    cd ...
     ```
 
 2.  **Create a Virtual Environment (Recommended):**
