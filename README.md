@@ -56,7 +56,7 @@ https://buildnow-assessment.streamlit.app
 
 1.  **Run the Categorization Script:**
     * This script loads the Excel data, interacts with the Ollama LLM to categorize items dynamically, refines categories, performs basic analysis, and saves the results to a CSV file (`purchase_orders_categorized_dynamic_v4.csv` by default).
-    * *(Assuming your main script is in `src/categorize_po_items.py`)*
+    * *(Assuming your main script is in `src/LLM_Categorizer.py`)*
     ```bash
     python src/categorize_po_items.py
     ```
